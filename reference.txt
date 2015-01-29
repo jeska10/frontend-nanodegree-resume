@@ -1,0 +1,3 @@
+https://github.com/udacity/frontend-nanodegree-resume
+used jquery reference
+google maps api
